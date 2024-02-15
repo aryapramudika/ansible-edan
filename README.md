@@ -1,6 +1,6 @@
 # Ansible EDA(N) Example
 
-##Run Rulebook
+## Run Rulebook
 
 ```
 ansible-rulebook -i inventory -r rule.yml --verbose
