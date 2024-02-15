@@ -1,5 +1,13 @@
 # Ansible EDA(N) Example
 
+
+## Installing EDA in Ubuntu 22
+
+```
+apt-get install openjdk-18 -y
+pip install ansible-rulebook
+ansible-galaxy collection install ansible.eda
+```
 ## Run Rulebook
 
 ```
